@@ -15,7 +15,7 @@ export default function Navbar() {
           </Link>
           <div className="hidden lg:flex items-center space-x-8">
             <Link to="/" className="text-gray-300 hover:text-[#4b8aff] transition">Home</Link>
-            <Link to="/about" className="text-gray-300 hover:text-[#4b7bff] transition">About</Link>
+            <Link to="/about" className="text-gray-300 hover:text-[#4b7bff] transition">About IITM</Link>
             <Link to="/curriculum" className="text-gray-300 hover:text-[#4b87ff] transition">Academics</Link>
             <Link to="/admission" className="text-gray-300 hover:text-[#4b84ff] transition">Admission</Link>
             <Link to="/placement" className="text-gray-300 hover:text-[#4b6fff] transition">Placements</Link>

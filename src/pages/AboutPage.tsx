@@ -13,18 +13,18 @@ const stats = [
 
 const facultyCoordinators = [
   {
-    name: 'Dr. Andrew Thangaraj',
+    name: 'Dr Sankaran Aniruddhan',
     title: 'Professor, Department of Electrical Engineering',
-    image: 'Andrew.jpg',
-    description: `Andrew Thangaraj has been with IIT Madras since June 2004. He received his bachelors from IIT Madras and PhD from Georgia Institute of Technology. He has served on editorial boards of IEEE Transactions and is currently a coordinator for the BS program and Principal Investigator for SWAYAM.`,
-    achievements: ['PhD from Georgia Tech', 'IEEE Transactions Editor', 'SWAYAM PI']
+    image: 'Sankaran.jpg',
+    description: `Dr. Sankaran Aniruddhan, Associate Professor in the VLSI group at IIT Madras, earned his B.Tech. in Electrical Engineering from IIT Madras (2000) and Ph.D. from the University of Washington, Seattle (2006). He worked at Qualcomm Inc., San Diego (2006–2011), designing integrated circuits for cellular RF applications. His research focuses on CMOS RF Integrated Circuits for wireless communications.`,
+    achievements: ['Ph.D. from the University of Washington', 'B.Tech. in EE from IIT Madras', 'SWAYAM PI']
   },
   {
-    name: 'Dr. Vignesh Muthuvijayan',
-    title: 'Professor, Department of Biotechnology',
-    image: 'Vignesh.jpg',
-    description: `Professor in the Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences. He received his BTech from Anna University and PhD from Oklahoma State University. He serves as a Coordinator for both the BS program and NPTEL.`,
-    achievements: ['PhD from Oklahoma State', 'BS Program Coordinator', 'NPTEL Coordinator']
+    name: 'Dr Boby George',
+    title: 'Professor, Department of Electrical Engineering',
+    image: 'Boby.jpg',
+    description: `Dr. Boby George, Professor in Electrical Engineering at IIT Madras, earned his M.Tech. and Ph.D. in Electrical Engineering from the same institute. His research focuses on sensor interface electronics, field-based sensors, water monitoring systems, and biomedical instrumentation. He is an Associate Editor for IEEE Sensors Journal, IEEE Transactions on Instrumentation and Measurement, and IEEE Transactions on Industrial Electronics.`,
+    achievements: ['PhD from IIT Madras', 'BS Program Coordinator', 'IEEE Editor']
   }
 ];
 
