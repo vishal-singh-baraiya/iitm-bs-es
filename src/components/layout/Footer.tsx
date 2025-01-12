@@ -58,6 +58,9 @@ export default function Footer() {
           <p className="text-center text-gray-300">
             © {new Date().getFullYear()} IIT Madras. All rights reserved.
           </p>
+          <p className="text-center text-gray-300">
+            Website Made by Vishal Singh Baraiya
+          </p>
         </div>
       </div>
     </footer>
